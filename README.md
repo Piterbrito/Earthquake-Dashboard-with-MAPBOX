@@ -4,7 +4,7 @@
 
 # Goals
 
-# Finds
+# Findings
 
 ![x](assets/images/map1.png)
 
