@@ -32,11 +32,17 @@ Add layer controls to our map.
 # Run Locally
 
 Run this command git clone https://github.com/Piterbrito/USGS-earthquakes--MapDashboard/
+
+
 Make sure you have installed in your computer all libraries used above 
+
+
 Double check if you are in the right directory in you terminal ...that often cause errors
-Terminal Should be addressed at folder: flask_app
-Run the command: python app.py in your terminal
-Copy the output link and paste in your Browser
+
+
+Open with default browser: index.html 
+
+
 You are now in the dev environment and you can play around
 
 # Findings
